@@ -88,8 +88,8 @@ A personal expense management application.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add Your LinkedIn Profile URL](https://www.linkedin.com/)
-- 🌐 Portfolio: [Add Your Portfolio URL](https://github.com/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/amit-kumar-55740739a/)
+- 🌐 Portfolio: (https://github.com/)
 - 🐙 GitHub: [@amitkumarwrs](https://github.com/amitkumarwrs)
 
 ---
